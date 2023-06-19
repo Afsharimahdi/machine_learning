@@ -23,12 +23,13 @@ This section includes different machine learning projects that cover various dom
 
 This section provides implementation examples and resources for popular machine learning algorithms. Each algorithm is explained in detail and comes with code samples and practical use cases:
 
-1. [knn](./algorithms/linear-regression/README.md)
-2. [nb](./algorithms/logistic-regression/README.md)
-3. [](./algorithms/decision-trees/README.md)
-4. [](./algorithms/random-forests/README.md)
-5. [](./algorithms/support-vector-machines/README.md)
-6. [](./algorithms/neural-networks/README.md)
+1. [k-nearest neighbors algorithm
+](./algorithms/linear-regression/README.md)
+2. [Naive Bayes](./algorithms/logistic-regression/README.md)
+3. []()
+4. []()
+5. []()
+6. []()
 
 ## Resources
 
