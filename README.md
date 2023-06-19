@@ -14,22 +14,35 @@ Welcome to the Machine Learning Repository! This repository is a collection of v
 
 This section includes different machine learning projects that cover various domains and applications. Each project comes with its own documentation, code, and datasets. Feel free to explore and experiment with these projects:
 
-
-
-
-
+<!-- Add project links here -->
 
 ## Algorithms
 
 This section provides implementation examples and resources for popular machine learning algorithms. Each algorithm is explained in detail and comes with code samples and practical use cases:
 
-1. [k-nearest neighbors algorithm
-](./algorithms/linear-regression/README.md)
-2. [Naive Bayes](./algorithms/Gaussian Naive Bayes.md)
+1. [k-nearest neighbors algorithm](./algorithms/linear-regression/README.md)
+2. [Naive Bayes](./algorithms/naive-bayes/README.md)
 3. []()
 4. []()
 5. []()
 6. []()
+
+<!-- Add more algorithms here -->
+
+## Resources
+
+This section contains additional resources and references for learning machine learning concepts, techniques, and tools. It includes books, tutorials, online courses, and research papers to deepen your understanding and improve your skills.
+
+<!-- Add resource links here -->
+
+## Contributing
+
+Contributions to this repository are welcome! If you have a machine learning project, algorithm implementation, or useful resource that you'd like to share with the community, please follow the guidelines in the [CONTRIBUTING.md](./CONTRIBUTING.md) file.
+
+## License
+
+This repository is licensed under the [MIT License](./LICENSE). Feel free to use the code and resources provided in this repository for your own learning and projects.
+
 
 ## Resources
 
