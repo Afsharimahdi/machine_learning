@@ -25,7 +25,7 @@ This section provides implementation examples and resources for popular machine 
 
 1. [k-nearest neighbors algorithm
 ](./algorithms/linear-regression/README.md)
-2. [Naive Bayes](./Gaussian Naive Bayes.md)
+2. [Naive Bayes](./algorithms/Gaussian Naive Bayes.md)
 3. []()
 4. []()
 5. []()
