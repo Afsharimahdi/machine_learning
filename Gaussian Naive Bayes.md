@@ -1,4 +1,4 @@
-#Gaussian_Naive_Bayes
+## Gaussian_Naive_Bayes
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
