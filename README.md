@@ -21,7 +21,7 @@ This section includes different machine learning projects that cover various dom
 This section provides implementation examples and resources for popular machine learning algorithms. Each algorithm is explained in detail and comes with code samples and practical use cases:
 
 1. [k-nearest neighbors algorithm](./algorithms/linear-regression/README.md)
-2. [Naive Bayes](https://github.com/Afsharimahdi/machine_learning/blob/master/Gaussian%20Naive%20Bayes.md)
+2. [ Gaussian_Naive_Bayes](./Gaussian_Naive_Bayes.md)
 3. []()
 4. []()
 5. []()
