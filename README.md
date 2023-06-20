@@ -14,7 +14,6 @@ Welcome to the Machine Learning Repository! This repository is a collection of v
 1. [ Gaussian_Naive_Bayes](https://github.com/Afsharimahdi/machine_learning/blob/master/NB_from_the_scratch_and_sklearn_library.ipynb)
 
 This section includes different machine learning projects that cover various domains and applications. Each project comes with its own documentation, code, and datasets. Feel free to explore and experiment with these projects:
-https://github.com/Afsharimahdi/machine_learning/blob/master/NB_from_the_scratch_and_sklearn_library.ipynb
 <!-- Add project links here -->
 
 ## Algorithms
