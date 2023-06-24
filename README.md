@@ -12,7 +12,7 @@ Welcome to the Machine Learning Repository! This repository is a collection of v
 
 ## Projects
 1. [ Gaussian_Naive_Bayes](https://github.com/Afsharimahdi/machine_learning/blob/master/NB_from_the_scratch_and_sklearn_library.ipynb)
-2. ###1. [ Gaussian_Naive_Bayes](https://github.com/Afsharimahdi/machine_learning/blob/master/NB_from_the_scratch_and_sklearn_library.ipynb)
+   1.1.[Naive_Bayes_Titanic.ipynb](https://github.com/Afsharimahdi/machine_learning/blob/master/Naive_Bayes_Titanic.ipynb)
 
 3. [k-nearest neighbors algorithm](https://github.com/Afsharimahdi/machine_learning/blob/master/knn.ipynb)
 
