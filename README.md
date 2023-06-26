@@ -15,6 +15,8 @@ Welcome to the Machine Learning Repository! This repository is a collection of v
 
 1.1.[Naive_Bayes_Titanic.ipynb](https://github.com/Afsharimahdi/machine_learning/blob/master/Naive_Bayes_Titanic.ipynb)
 
+1.2.[ham_spam_nayve_bayse.ipynb](https://github.com/Afsharimahdi/machine_learning/blob/master/ham_spam_nayve_bayse.ipynb)
+
 2. [k-nearest neighbors algorithm](https://github.com/Afsharimahdi/machine_learning/blob/master/knn.ipynb).
 
 
